@@ -1,5 +1,5 @@
 # Group 25
-Group Name: BNKRPT
+Group Name: Fraudex
 
 [MVP Link](https://docs.google.com/document/d/1Xvi3-qwkr6-_EVHfCb3EXuEoO7w0HquwEGKGvdbaVYw/edit?usp=sharing)  
 Make a copy and replace the link!
